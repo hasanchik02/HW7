@@ -1,0 +1,15 @@
+D:\vsc\C#\HW7_sem\Task47\bin\Debug\net7.0\Task47.exe
+D:\vsc\C#\HW7_sem\Task47\bin\Debug\net7.0\Task47.deps.json
+D:\vsc\C#\HW7_sem\Task47\bin\Debug\net7.0\Task47.runtimeconfig.json
+D:\vsc\C#\HW7_sem\Task47\bin\Debug\net7.0\Task47.dll
+D:\vsc\C#\HW7_sem\Task47\bin\Debug\net7.0\Task47.pdb
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.csproj.AssemblyReference.cache
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.AssemblyInfoInputs.cache
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.AssemblyInfo.cs
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.csproj.CoreCompileInputs.cache
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.dll
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\refint\Task47.dll
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.pdb
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\Task47.genruntimeconfig.cache
+D:\vsc\C#\HW7_sem\Task47\obj\Debug\net7.0\ref\Task47.dll
